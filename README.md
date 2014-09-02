@@ -51,6 +51,7 @@ This rebuilds `build.js` whenever relevant files change.
     ```
     
 1.  In the browser pane, right click and select `Inspect Element`.
+1.  Select `Console` tab in the inspector.
 1.  Observe the following:
     ![Install verification](docs/install_verification.jpg)
 
