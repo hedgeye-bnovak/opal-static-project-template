@@ -1,12 +1,7 @@
 # Experimenting w/ Javascript in Opal
 
-This is to support a [spiking activity](https://www.pivotaltracker.com/story/show/77776990)
-in Opal.
-
-# Summary
-
-This is an [Opal](opalrb.org) [static installation](http://opalrb.org/docs/static_applications/)
-that is set up for you.  This is useful for playing around w/ simple Opal/Javascript experiments.
+Provides a template Git project for easily playing with an empty
+[Opal static application](http://opalrb.org/docs/static_applications/).
 
 # Installation
 
