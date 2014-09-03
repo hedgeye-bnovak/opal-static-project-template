@@ -4,4 +4,5 @@
 guard 'process', :name => 'OpalChanged', :command => 'rake build' do
   watch(%r{^opal/.+})
   watch('index.html')
+  watch('Rakefile')
 end

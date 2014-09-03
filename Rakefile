@@ -1,4 +1,5 @@
 require 'opal'
+require 'opal/browser'
 
 desc 'Build our app to build.js'
 task :build do
