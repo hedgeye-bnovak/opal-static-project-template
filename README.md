@@ -52,6 +52,11 @@ This rebuilds `build.js` whenever relevant files change.
 
 # FAQ
 
+## Sometimes the Firefox browser window doesn't refresh or it refreshes blank.  Why?
+
+Don't know.  Most of the time it works for me, and when it doesn't I just manually
+refresh the page.
+
 ## Isn't this gonna be painful when you get too many development files?
 
 You mean pain as in?
